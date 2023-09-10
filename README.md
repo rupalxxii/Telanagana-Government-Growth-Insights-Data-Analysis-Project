@@ -1,0 +1,2 @@
+# Telanagana-Government-Growth-Insights-Data-Analysis-Project
+Telangana's commitment to transparency and open data has given Peter Pandey, an aspiring data analyst, a chance to make a meaningful impact. Peter plans to analyze Telangana's sectoral growth, address regional disparities, and provide insights for informed policymaking. His project aims to shape Telangana's future by harnessing the power of data.
